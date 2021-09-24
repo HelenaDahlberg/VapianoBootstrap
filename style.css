@@ -1,14 +1,14 @@
 
 
 .text-center {font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:black
+    color:black;
 }
 
 
 .container {
     position: relative;
     text-align: center;
-    color:blanchedalmond
+    color:rgb(255, 255, 255);
 }
 
 .centered {
