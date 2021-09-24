@@ -7,3 +7,27 @@
     background-color: rgba(168, 32, 14, 0.178);
 }
 /* - - - */
+
+/* - om oss sidan - */
+.text-center {font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color:rgb(255, 255, 255)
+}
+.img-omoss{
+    width: 100%;
+    opacity: 0.5;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:rgb(175, 31, 31)
+  }
+  /* - om oss sidan - */
