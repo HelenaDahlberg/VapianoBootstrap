@@ -4,11 +4,15 @@
     color:black;
 }
 
-
 .container {
     position: relative;
     text-align: center;
-    color:rgb(255, 255, 255);
+    color:rgb(255, 255, 255)
+}
+
+.img-omoss{
+    width: 100%;
+    opacity: 0.5;
 }
 
 .centered {
@@ -16,5 +20,6 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    color:rgb(24, 24, 24)
   }
   
