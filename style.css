@@ -10,8 +10,7 @@
 
 
 /* - om oss sidan - */
-.text-center {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+.text-center {font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:black
 }
 
@@ -20,26 +19,40 @@
     text-align: center;
     color:rgb(255, 255, 255)
 }
-
-.container-omoss {
-  position: relative;
-  text-align: center;
-  width: 100%;
-  color:rgb(0, 0, 0)
+.img-omoss{
+    width: 100%;
+    opacity: 0.5;
 }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:rgb(175, 31, 31)
+  }
   /* - om oss sidan - */
 
 
 
   /* - index - */
- 
+
+ .view {
+     height: 700px;
+ }
   h6 {
       color: rgb(77, 3, 3);
     line-height: 1.7;
   }
-
+  .mb-4 {
+    padding-top: 3em;
+  }
+  .btn {
+      margin-top:1em;
+  }
 
   .flash {
+    padding-top: 2em;
     text-align: center;
     position: relative;
     font-family: sans-serif;
